@@ -1,6 +1,6 @@
 ## Root Solution
 
-- KernelSU [GKI](https://github.com/tiann/KernelSU) [Non-GKI](https://github.com/rsuntk/KernelSU) (Note: Integrating [SusFS](https://gitlab.com/simonpunk/susfs4ksu) is recommended)
+- KernelSU ([GKI](https://github.com/tiann/KernelSU)) ([Non-GKI](https://github.com/rsuntk/KernelSU)) (Note: Integrating [SusFS](https://gitlab.com/simonpunk/susfs4ksu) is recommended)
 
 - [Magisk Alpha](https://t.me/MagiskAlpha)
 
@@ -18,7 +18,8 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Don't forget to disable inbuilt Zygisk from Magisk Settings.
 
-- LSPosed (Unofficial) [Stable](https://github.com/re-zero001/LSPosed-Irena/releases/latest) [CI](https://t.me/lsposed_irena) (Required for HideMyApplist)
+- LSPosed Unofficial ([Stable](https://github.com/re-zero001/LSPosed-Irena/releases/latest)) ([CI](https://t.me/lsposed_irena)) (Required for HideMyApplist)
+
   - Use CI for better compatibility and bug fixes.
 
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases) (A trick of keystore)
