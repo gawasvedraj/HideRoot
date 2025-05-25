@@ -75,7 +75,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
 ## Root Detectors
 
-- [Native Test](https://play.google.com/store/apps/details?id=icu.nullptr.nativetest) by LSPosed Developers
+- [Native Test](https://github.com/Dr-TSNG/NativeDetector/releases/latest) by LSPosed Developers
 
   - This is the best one out there.
 
