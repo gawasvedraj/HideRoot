@@ -45,6 +45,10 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Use only if you're on a Custom ROM.
 
+- [No Hello](https://github.com/MhmRdd/NoHello)
+
+  - Shamiko Alternative, Conflicts with Shamiko.
+
 ### Magisk / KernelSU
 
 - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
