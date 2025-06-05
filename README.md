@@ -89,13 +89,14 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
 # Acknowledgement
 
-- [Reveny Chat](https://t.me/revenychat)
 - [LSPosed Developers](https://github.com/orgs/LSPosed/people)
-- [Irena](https://github.com/re-zero001)
 - [5ec1cff](https://github.com/5ec1cff)
-- [GarfieldHan](https://github.com/pomelohan)
+- [Irena](https://github.com/re-zero001)
 - [Marcos](https://github.com/chiteroman)
 - [Chris Renshaw](https://github.com/osm0sis)
+- [Reveny](https://github.com/reveny)
+- [Simon Punk](https://gitlab.com/simonpunk)
+- [Mohammed Riad](https://github.com/MhmRdd)
 - [PixelProps](https://t.me/PixelProps)
 
 For the knowledge and tools.
