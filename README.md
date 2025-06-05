@@ -83,10 +83,6 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Another good detector.
 
-- [Holmes](https://t.me/app_process64) by GarfieldHan
-
-  - Just For Fun.
-
 # Acknowledgement
 
 - [Reveny Chat](https://t.me/revenychat)
