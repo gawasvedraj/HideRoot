@@ -4,7 +4,7 @@
 
 - [Magisk Alpha](https://t.me/MagiskAlpha)
 
-- [Magisk Canary](https://github.com/topjohnwu/Magisk/releases)
+- [Magisk Beta](https://github.com/topjohnwu/Magisk/releases)
 
 - [APatch](https://apatch.dev)
 
