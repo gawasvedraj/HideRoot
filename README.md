@@ -2,7 +2,7 @@
 
 - KernelSU ([GKI](https://github.com/tiann/KernelSU)) ([Non-GKI](https://github.com/rsuntk/KernelSU)) (Note: Integrating [SusFS](https://gitlab.com/simonpunk/susfs4ksu) is recommended)
 
-- [Magisk Alpha](https://t.me/MagiskAlpha)
+- [Magisk Alpha](https://t.me/MagiskAlpha) (Proprietary & Unofficial)
 
 - [Magisk Beta](https://github.com/topjohnwu/Magisk/releases)
 
