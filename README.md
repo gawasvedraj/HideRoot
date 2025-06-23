@@ -63,7 +63,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
 ### APatch
 
-- [Cherish Peekaboo](https://t.me/app_process64)
+- [No Hello KPM](https://t.me/mhm72dd/39)
 
   - [KPM Usage Guide](https://apatch.dev/kpm-usage-guide.html)
 
