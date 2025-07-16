@@ -32,9 +32,9 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
     _You don't need to use these modules if you have valid keybox with KSU/APatch on Stock ROM._
 
-    - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases)
+    - [Play Integrity Fix](https://github.com/KOWX712/PlayIntegrityFix/releases)
 
-      - Just works module for noobies.
+      - "Just works" module with WebUI.
 
     - [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
 
