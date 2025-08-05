@@ -69,13 +69,15 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
 ### LSPosed Modules
 
-- [HideMyApplist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
+- [HideMyApplist](https://t.me/HideMyApplist)
 
   - Create a blacklist template then add apps you want to hide (Magisk, LSPosed Modules, MT Manager and other suspicious apps.)
 
   - Apply the template to the target app (Bank App, Games etc...)
 
   - Alternatively you can use whitelist but don't forget to add atleast one non supicious app because some apps detect it.
+
+  - If some app doesn't work, for example Iris by Yes Bank; then try enabling "Agressive Intent Filter" in HMA settings. Note that this might break some aosp functionality so use only when needed.
 
 ## Root Detectors
 
