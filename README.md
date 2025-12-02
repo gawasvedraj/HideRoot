@@ -45,39 +45,21 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Use only if you're on a Custom ROM.
 
-- [No Hello](https://github.com/MhmRdd/NoHello)
-
-  - Shamiko Alternative, Conflicts with Shamiko.
-
-### Magisk / KernelSU
-
-- [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
-
-  - Disable "Enforce Denylist" from Magisk Settings.
-
-### KernelSU
-
-- [susfs4ksu](https://github.com/sidex15/susfs4ksu-module/releases/latest)
-
-  - Use only if you've integrated SusFS in Kernel.
-
 ### APatch
 
-- [No Hello KPM](https://t.me/mhm72dd/39)
+- [No Hello KPM](https://t.me/mhm72dd)
 
   - [KPM Usage Guide](https://apatch.dev/kpm-usage-guide.html)
 
 ### LSPosed Modules
 
-- [HideMyApplist](https://t.me/HideMyApplist)
+- [HMA-OSS](https://github.com/frknkrc44/HMA-OSS/releases/latest)
 
-  - Create a blacklist template then add apps you want to hide (Magisk, LSPosed Modules, MT Manager and other suspicious apps.)
-
-  - Apply the template to the target app (Bank App, Games etc...)
+  - Apply the presets according to your preference to the target app.
 
   - Alternatively you can use whitelist but don't forget to add atleast one non supicious app because some apps detect it.
 
-  - If some app doesn't work, for example Iris by Yes Bank; then try enabling "Agressive Intent Filter" in HMA settings. Note that this might break some aosp functionality so use only when needed.
+  - Bonus: Enable "Spoof installation sources" for Play Store.
 
 ## Root Detectors
 
@@ -91,14 +73,15 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
 # Acknowledgement
 
-- [LSPosed Developers](https://github.com/orgs/LSPosed/people)
 - [5ec1cff](https://github.com/5ec1cff)
-- [Irena](https://github.com/re-zero001)
-- [Marcos](https://github.com/chiteroman)
 - [Chris Renshaw](https://github.com/osm0sis)
-- [Reveny](https://github.com/reveny)
-- [Simon Punk](https://gitlab.com/simonpunk)
+- [Furkan Karcıoğlu](https://github.com/frknkrc44)
+- [Irena](https://github.com/re-zero001)
+- [LSPosed Developers](https://github.com/orgs/LSPosed/people)
+- [Marcos](https://github.com/chiteroman)
 - [Mohammed Riad](https://github.com/MhmRdd)
 - [PixelProps](https://t.me/PixelProps)
+- [Reveny](https://github.com/reveny)
+- [Simon Punk](https://gitlab.com/simonpunk)
 
 For the knowledge and tools.
