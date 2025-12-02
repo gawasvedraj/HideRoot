@@ -1,6 +1,10 @@
 ## Root Solution
 
-- KernelSU ([GKI](https://github.com/tiann/KernelSU)) ([Non-GKI](https://github.com/rsuntk/KernelSU)) (Note: Integrating [SusFS](https://gitlab.com/simonpunk/susfs4ksu) is recommended)
+- KernelSU
+
+  - [GKI](https://github.com/tiann/KernelSU)
+
+  - [Non-GKI](https://github.com/backslashxx/KernelSU)
 
 - [Magisk Alpha](https://t.me/MagiskAlpha) (Proprietary & Unofficial)
 
@@ -40,16 +44,15 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
       - For nerds with many scripts inbuilt.
 
-
-- [Sensitive Props](https://www.pling.com/p/2129780/)
-
-  - Use only if you're on a Custom ROM.
-
 ### APatch
 
 - [No Hello KPM](https://t.me/mhm72dd)
 
   - [KPM Usage Guide](https://apatch.dev/kpm-usage-guide.html)
+
+### KernelSU Metamodules
+
+- [mountify](https://github.com/backslashxx/mountify)
 
 ### LSPosed Modules
 
@@ -74,14 +77,14 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 # Acknowledgement
 
 - [5ec1cff](https://github.com/5ec1cff)
+- [backslashxx](https://github.com/backslashxx)
 - [Chris Renshaw](https://github.com/osm0sis)
 - [Furkan Karcıoğlu](https://github.com/frknkrc44)
 - [Irena](https://github.com/re-zero001)
 - [LSPosed Developers](https://github.com/orgs/LSPosed/people)
 - [Marcos](https://github.com/chiteroman)
 - [Mohammed Riad](https://github.com/MhmRdd)
-- [PixelProps](https://t.me/PixelProps)
 - [Reveny](https://github.com/reveny)
-- [Simon Punk](https://gitlab.com/simonpunk)
+- And [Magisk](https://github.com/topjohnwu/Magisk/graphs/contributors), [KernelSU](https://github.com/tiann/KernelSU/graphs/contributors), [APatch](https://github.com/bmax121/APatch/graphs/contributors) developers
 
 For the knowledge and tools.
