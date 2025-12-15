@@ -22,9 +22,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Don't forget to disable inbuilt Zygisk from Magisk Settings.
 
-- LSPosed Unofficial ([Stable](https://github.com/re-zero001/LSPosed-Irena/releases/latest)) ([CI](https://t.me/lsposed_irena)) (Required for HideMyApplist)
-
-  - Use CI for better compatibility and bug fixes.
+- [LSPosed Irena](https://t.me/lsposed_irena) (Required for HideMyApplist)
 
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases) (A trick of keystore)
 
