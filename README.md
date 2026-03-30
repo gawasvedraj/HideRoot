@@ -22,7 +22,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Don't forget to disable inbuilt Zygisk from Magisk Settings.
 
-- [LSPosed Irena](https://t.me/lsposed_irena) (Required for HideMyApplist)
+- [LSPosed](LSPosed-v2.0.0-7607-release.zip) (Required for HideMyApplist)
 
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases) (A trick of keystore)
 
@@ -41,6 +41,10 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
     - [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
 
       - For nerds with many scripts inbuilt.
+
+- [Sensitive Props Crontabs](https://github.com/silvzr/sensitive-props-crontabs)
+
+  - Use only if you're on a Custom ROM.
 
 ### APatch
 
@@ -83,6 +87,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 - [Marcos](https://github.com/chiteroman)
 - [Mohammed Riad](https://github.com/MhmRdd)
 - [Reveny](https://github.com/reveny)
+- [Silver](https://github.com/silvzr)
 - And [Magisk](https://github.com/topjohnwu/Magisk/graphs/contributors), [KernelSU](https://github.com/tiann/KernelSU/graphs/contributors), [APatch](https://github.com/bmax121/APatch/graphs/contributors) developers
 
 For the knowledge and tools.
