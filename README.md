@@ -22,7 +22,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Don't forget to disable inbuilt Zygisk from Magisk Settings.
 
-- [LSPosed](https://t.me/LSPosed/307) ([Direct DL](LSPosed-v2.0.1-7639-release.zip)) (Required for HideMyApplist)
+- [LSPosed](https://t.me/LSPosed/311) ([Direct DL](LSPosed-v2.0.2-7668-release.zip)) (Required for HideMyApplist)
 
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases) (A trick of keystore)
 
