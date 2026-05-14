@@ -46,6 +46,8 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
   - Use only if you're on a Custom ROM.
 
+  - Delete sepolicy.rule from this module as it causes issues with sepolicy hide implementation.
+
 ### APatch
 
 - [No Hello KPM](https://t.me/mhm72dd)
