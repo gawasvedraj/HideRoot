@@ -70,7 +70,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 
 ## Root Detectors
 
-- [Native Test](https://github.com/Dr-TSNG/NativeDetector/releases/latest) by LSPosed Developers
+- [Duck Detector](https://github.com/eltavine/Duck-Detector-Refactoring/releases/tag/nightly) by Eltavine
 
   - This is the best one out there.
 
@@ -83,6 +83,7 @@ _Please avoid using Magisk Stable and Kitsune Mask (formerly Magisk Delta)._
 - [5ec1cff](https://github.com/5ec1cff)
 - [backslashxx](https://github.com/backslashxx)
 - [Chris Renshaw](https://github.com/osm0sis)
+- [Eltavine](https://github.com/eltavine)
 - [Furkan Karcıoğlu](https://github.com/frknkrc44)
 - [Irena](https://github.com/re-zero001)
 - [LSPosed Developers](https://github.com/orgs/LSPosed/people)
